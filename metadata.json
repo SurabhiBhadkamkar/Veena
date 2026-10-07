@@ -1,0 +1,6 @@
+{
+  "name": "VEENA - Your Learning Companion",
+  "description": "AI-powered learning companion for students featuring study plans, PYQ analyzer, quizzes, and instant doubt resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
